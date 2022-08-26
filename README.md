@@ -38,8 +38,8 @@
   <a href="https://www.linkedin.com/in/vishal-karale-30883120a/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/taalibullah786/">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  <a href="https://drive.google.com/file/d/19S2iw4GLzE2VnYAf0dQdIsNfTWQzVgG-/view?usp=sharing">
+    <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
 
