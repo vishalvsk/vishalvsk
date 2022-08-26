@@ -12,7 +12,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
 - 🧠 Callme: **_He/His_** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - _[Md Vishal]()_
+- 👨‍💻 My Portfolio - _[ Vishal]()_
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -28,14 +28,14 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 <p>
-     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/MdTalib57200313">
+     <a href="https://wa.me/9860809706" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+   <a href="https://twitter.com/VishalK11924769">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:taalibullah789@gmail.com">
+  <a href="vishalkaralevsk@gmail.com">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
+  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/taalibullah786/">
@@ -94,7 +94,7 @@
 
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{vishalvsk}/count.svg" alt="talib789 :: Visitor's Count" /></p>
 
 <hr>
 
@@ -105,13 +105,13 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvsk&theme=chartreuse-dark"  />
 </p>
  
 <p>
-<a href="https://github.com/talib789"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib789&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=talib789&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/vishalvsk"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalvsk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvsk&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -119,15 +119,15 @@
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/talib789"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
+<a href="https://github.com/vishalvsk"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalvsk&theme=dracula" />
 </span></a> </p>
 
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=vishalvsk&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishalvsk&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr clear="both">
 
