@@ -32,7 +32,7 @@
    <a href="https://twitter.com/VishalK11924769">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="vishalkaralevsk@gmail.com">
+  <a href="mailto:vishalkaralevsk@gmail.com">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/vishal-karale-30883120a/">
