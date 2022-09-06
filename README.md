@@ -12,7 +12,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
 - 🧠 Callme: **_He/His_** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - _[ https://vishalvsk-portfolio.netlify.app/ ]()_
+- 👨‍💻 My Portfolio - <a href="https://vishalvsk-portfolio.netlify.app/" target="blank">
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
