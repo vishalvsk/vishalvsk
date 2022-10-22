@@ -29,16 +29,16 @@
 
 <p>
      <a href="https://wa.me/919860809706" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/VishalK11924769">
+   <a href="https://twitter.com/VishalK11924769" target="blank" >
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:vishalkaralevsk@gmail.com">
+  <a href="mailto:vishalkaralevsk@gmail.com"  target="blank">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/">
+  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/"  target="blank">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://drive.google.com/file/d/1yA_WvBcaPtDeul981VRvDhbBIbxZ9d5T/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1yA_WvBcaPtDeul981VRvDhbBIbxZ9d5T/view?usp=sharing"  target="blank">
     <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
