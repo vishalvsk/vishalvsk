@@ -12,7 +12,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
 - 🧠 Callme: **_He/His_** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - <a href="https://vishalvsk-portfolio.netlify.app/" target="blank">Portfolio</a>
+- 👨‍💻 My Portfolio - <a href="https://vishalvsk-portfolio.netlify.app/" target="_blank">Portfolio</a>
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -28,17 +28,17 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 <p>
-     <a href="https://wa.me/919860809706" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/VishalK11924769" target="blank" >
+     <a href="https://wa.me/919860809706" target="_blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+   <a href="https://twitter.com/VishalK11924769" target="_blank" >
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mailto:vishalkaralevsk@gmail.com"  target="blank">
+  <a href="mailto:vishalkaralevsk@gmail.com"  target="_blank">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/"  target="blank">
+  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/"  target="_blank">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://drive.google.com/file/d/1yA_WvBcaPtDeul981VRvDhbBIbxZ9d5T/view?usp=sharing"  target="blank">
+  <a href="https://drive.google.com/file/d/1yA_WvBcaPtDeul981VRvDhbBIbxZ9d5T/view?usp=sharing"  target="_blank">
     <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
